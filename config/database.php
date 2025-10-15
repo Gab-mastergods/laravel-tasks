@@ -49,7 +49,7 @@ return [
             'host' => env('AZURE_MYSQL_HOST', 'finalquiz1-server.mysql.database.azure.com'),
             'port' => env('AZURE_MYSQL_PORT', '3306'),
             'database' => env('AZURE_MYSQL_DBNAME', 'finalquiz1-server'),
-            'username' => env('AZURE_MYSQL_USERNAME', 'oezbknsqva'),
+            'username' => env('AZURE_MYSQL_USERNAME', 'oezbknsqva@finalquiz1-server'),
             'password' => env('AZURE_MYSQL_PASSWORD', 'O4Tj$VkHUMwb6p8w'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
